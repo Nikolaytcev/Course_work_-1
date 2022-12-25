@@ -1,0 +1,82 @@
+[
+  {
+    "file_name": "33.jpg",
+    "size": {
+      "height": 0,
+      "width": 0,
+      "type": "z"
+    }
+  },
+  {
+    "file_name": "28.jpg",
+    "size": {
+      "height": 0,
+      "width": 0,
+      "type": "y"
+    }
+  },
+  {
+    "file_name": "34.jpg",
+    "size": {
+      "height": 1713,
+      "width": 1369,
+      "type": "w"
+    }
+  },
+  {
+    "file_name": "11.jpg",
+    "size": {
+      "height": 853,
+      "width": 1280,
+      "type": "z"
+    }
+  },
+  {
+    "file_name": "36.jpg",
+    "size": {
+      "height": 2048,
+      "width": 1551,
+      "type": "w"
+    }
+  },
+  {
+    "file_name": "67.jpg",
+    "size": {
+      "height": 2048,
+      "width": 1536,
+      "type": "w"
+    }
+  },
+  {
+    "file_name": "63.jpg",
+    "size": {
+      "height": 960,
+      "width": 960,
+      "type": "z"
+    }
+  },
+  {
+    "file_name": "20.jpg",
+    "size": {
+      "height": 719,
+      "width": 960,
+      "type": "z"
+    }
+  },
+  {
+    "file_name": "61.jpg",
+    "size": {
+      "height": 2048,
+      "width": 1536,
+      "type": "w"
+    }
+  },
+  {
+    "file_name": "80.jpg",
+    "size": {
+      "height": 741,
+      "width": 738,
+      "type": "y"
+    }
+  }
+]
